@@ -107,7 +107,7 @@ pip install -r requirements.txt
 Bash
 
 streamlit run app.py
-Open your web browser and navigate to http://localhost:8501.
+Open your web browser and navigate to https://rahul446k-diabetes-prediction-app.streamlit.app/.
 <!-- 
 📸 Screenshots
 (Add screenshots of your web application here to showcase its features and user interface.)
